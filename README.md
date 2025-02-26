@@ -5,7 +5,7 @@ Kelas : XII PPLG ..
 Task : UJI KOMPETENSI PPLG ...
 
 
-<img src="../israruddinimg.jpg" width="300" style="border-radius: 50%;">
+<img src="./israruddinimg.jpg" width="300" style="border-radius: 50%;">
 
 # CASE PROJECT : sistem manajemenen Starbucks (Kopi RESTO) ☕☕
 
@@ -79,23 +79,23 @@ Relasi: One-to-One
     
 
 # CLASS DIAGRAM 
-<img src="../ClassDiagramStarbucks.png">
+<img src="./ClassDiagramStarbucks.png">
  
 
 <br>
 
 # RELASI TABLE
-<img src="../Relasi Table Starbucks.png">
+<img src="./Relasi Table Starbucks.png">
 
 <br>
 
 # ERD DIAGRAM
-<img src="../ERD_DIAGRAM.png">
+<img src="./ERD_DIAGRAM.png">
 
 <br>
 
 # USECASE DIAGRAM
-<img src="../usecasediagramstarbucks.png">
+<img src="./usecasediagramstarbucks.png">
 
 <br>
 
