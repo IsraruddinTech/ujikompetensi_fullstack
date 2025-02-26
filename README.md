@@ -85,7 +85,7 @@ Relasi: One-to-One
 <br>
 
 # RELASI TABLE
-<img src="./Relasi Table Starbucks.png">
+<img src="./relasiTable.png">
 
 <br>
 
